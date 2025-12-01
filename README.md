@@ -24,7 +24,7 @@ Updates can be easily downloaded using the integrated updater. Languages availab
 2. **Start GamingHub**  
    - After installation, open `GamingHub.exe` in the same folder.  
 
-**Warning:** Keep the updater, all related files, and any created files in the same folder. Do not rename files, as the program accesses files using their names.  
+**Warning:** Keep the updater, all related files, and any by the game created files in the same folder. Do not rename files, as the program accesses files using their names.  
 
 ----------------------------
 
