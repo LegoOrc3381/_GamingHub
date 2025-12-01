@@ -18,11 +18,13 @@ Updates can be easily downloaded using the integrated updater. Languages availab
 
 ## Steps
 1. *Run the Updater*  
-   - Download the updater from the releases and start it.  
+   - Download the updater from the releases.
+   - To run the updater you have to Allow the file sometimes after starting it for the first time.  
    - It will install or update GamingHub automatically.
 
 2. **Start GamingHub**  
-   - After installation, open `GamingHub.exe` in the same folder.  
+   - After installation, open 'GamingHub.exe' in the same folder.
+   - Sometimes you have to Allow it first after starting it for the first time.
 
 **Warning:** Keep the updater, all related files, and any by the game created files in the same folder. Do not rename files, as the program accesses files using their names.  
 
